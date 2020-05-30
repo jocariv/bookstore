@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jcriv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jcriv\\.nuget\\packages"
+    ]
+  }
+}
